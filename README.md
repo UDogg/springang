@@ -1,6 +1,6 @@
 # springang
 # 🌟 It is a simple ERM Platform
-**Front-end Development in progress"
+**Front-end Development in progress"**
 
 A streamlined Employee Relationship Management (ERM) platform designed to simplify the management of employee data. Built with ❤️ using Spring Boot and Angular, backed by a MySQL database, and tested thoroughly with Postman.
 
@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## 🌟 Authors
 
-- **Your Name** - *Initial work* - [Utkarsh Choudhary](https://github.com/UDogg)
+- **Utkarsh Choudhary** - *Initial work* - [Utkarsh Choudhary](https://github.com/UDogg)
 
 
 ## 📫 How to reach me
